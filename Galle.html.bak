@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+		<title> Galle </title>
+		<link rel="icon" href="../images/1.png" type="image/png">
+		<style>
+			body{
+				background-color: #ffffe6;
+			}
+			h1 {
+				color: #5c0099;
+				padding-top: 0px;
+				padding-left: 0px;
+				text-align: center;
+			}
+			.heading1{
+				color: #009900;
+			}
+			.heading2{
+				color: #6666ff;
+			}
+			.imgs{
+				margin-top: 5px;
+				margin-bottom: 10px; 
+			}
+			p{
+				font-size: 20px;
+			}
+			.list1, .list2{
+				font-size:18px;
+			}
+			
+			body {background-image: url("../images/background - Anuradhapura.jpg");
+			background-color: #cccccc;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div class="navbar">
+			<link rel="stylesheet" href="../css_files/my stylesheet.css">
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+			<a id = "coverpage" href="Cover Page.html"><img id = "coverimage" src="../images/1.png" alt="Logo"></a>
+			<a class = "active" href = "Cover Page.html"><i class = "fa fa-home"></i></a>
+			<a href = "#"><i class = "fa fa-map"></i></a>
+			<a href = "#"><i class="fa fa-pencil-square-o"></i></a>
+			<a href = "#"><i class="fa fa-cart-plus"></i></a>
+			<a href = "#"><i class = "fa fa-picture-o"></i></a>
+			<a href = "#"><i class = "fa fa-question-circle"></i></a>
+		</div>
+		<h1 style="margin-top:80px;"> Galle </h1>
+		<p> Galle is a main tourist attraction destination in Sri Lanka, 
+		which is situated on the southwestern tip. It has a long history
+		dating back to the past. It is a UNESCO World Heritage City. 
+		</p>
+		<p> There are many places to visit and many things to do in Galle.
+		Galle has it all, historic colonial sights, meditative temples, 
+		sandy beaches and rivers teeming with wildlife, all of which 
+		make this southern seaside escape a must-see on most Sri Lankan 
+		travel itineraries.Being a coastal area, it is quite hot and 
+		humid but has an abundance of beautiful beaches.		
+		</p>
+		<h2 class = "heading1"> Places to visit </h2>
+		<ul class = "list1">
+			<li> Dutch Fort</li>
+			<img src = "../images/galle fort.png" width = "200" height = "200" class="imgs"> 
+			<li> Lighthouse</li>
+			<img src = "../images/galle lighthouse.png" width = "200" height = "200" class = "imgs">
+			<li> National Museum</li>
+			<img src = "../images/galle meseum.png" width = "200" height = "200" class = "imgs">
+			<li> Unawatuna Beach</li>
+			<img src = "../images/galle unawatuna beach1.png" width = "200" height = "200" class = "imgs">
+			<li> Hikkaduwa Beach</li>
+			<img src = "../images/galle hikkaduwa beach.png" width = "200" height = "200" class = "imgs">
+			<li> Rumassala Sanctuary</li>
+			<img src = "../images/galle rumassala.png" width = "200" height = "200" class = "imgs">
+		</ul>
+		<h2 class = "heading2"> Things to do </h2>
+		<ul class = "list2">
+			<li> Surfing</li>
+			<img src = "../images/galle surfing.png" width = "200" height = "200" class = "imgs">
+			<li> Whale Watching</li>
+			<img src = "../images/galle whale watching.png" width = "200" height = "200" class = "imgs">
+			<li> Swimming</li>
+			<img src = "../images/galle swimming.jpg" width = "200" height = "200" class = "imgs">
+			<li> Scuba Diving</li>
+			<img src = "../images/galle scuba diving.png" width = "200" height = "200" class = "imgs">
+			<li> Snorkeling</li>
+			<img src = "../images/galle snorkeling.png" width = "200" height = "200" class = "imgs">
+			<li> Hiking</li>
+			<img src = "../images/galle hiking.png" width = "200" height = "200" class = "imgs">
+		</ul>
+	
+
+	
+	
+	
+	</body>
+</html>
